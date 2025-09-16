@@ -1,0 +1,52 @@
+# Dependencies (ignore any node_modules in subfolders)
+node_modules/
+
+# Build outputs
+build/
+dist/
+.next/
+.nuxt/
+.svelte-kit/
+.vercel/
+.netlify/
+
+# Vite / tooling caches
+.vite/
+.cache/
+.parcel-cache/
+.turbo/
+.eslintcache
+coverage/
+
+# Cloud/function tooling
+.wrangler/
+.firebase/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Temp files
+.tmp/
+tmp/
+temp/
+*.local
+
+# Swap files
+*.swp
+*.swo
