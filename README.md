@@ -22,7 +22,7 @@ The system consists of a **FastAPI** backend and a **React (Vite)** frontend, of
 ## Resources
 
 ### 🔗 Models
-[Link to Models](PLACEHOLDER_FOR_MODELS_LINK)
+[Link to Models](https://drive.google.com/file/d/1yyhbofUwis24u8um0KTvn49-HcV-DnwG/view?usp=drive_link)
 
 ### ☁️ OneDrive Link
 [Link to OneDrive](https://presidencyuniversityin-my.sharepoint.com/:f:/g/personal/aryan_20221cit0064_presidencyuniversity_in/IgDIrhB0LMjfSL3uKxgDwL8CAStdDdJF6h3P8AtRNOZZYmA?e=YMSCdZ)
