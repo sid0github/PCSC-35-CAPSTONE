@@ -25,4 +25,4 @@ The system consists of a **FastAPI** backend and a **React (Vite)** frontend, of
 [Link to Models](PLACEHOLDER_FOR_MODELS_LINK)
 
 ### ☁️ OneDrive Link
-[Link to OneDrive](PLACEHOLDER_FOR_ONEDRIVE_LINK)
+[Link to OneDrive](https://presidencyuniversityin-my.sharepoint.com/:f:/g/personal/aryan_20221cit0064_presidencyuniversity_in/IgDIrhB0LMjfSL3uKxgDwL8CAStdDdJF6h3P8AtRNOZZYmA?e=YMSCdZ)
